@@ -1,1 +1,1 @@
-https://overlord-configuration.kragujevic.tech/
+http://overlord-configuration.kragujevic.tech/
