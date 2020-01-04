@@ -1,1 +1,1 @@
-http://overlord-cnc-dataservice.milan.software/configuration.json?authorization=Bearer%20{{MY_ACCESS_TOKEN}}
+http://overlord-cnc-dataservice.kragujevic.tech/configuration.json?authorization=Bearer%20{{MY_ACCESS_TOKEN}}
