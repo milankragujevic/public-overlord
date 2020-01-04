@@ -1,0 +1,1 @@
+http://overlord-cnc-dataservice.milan.software/configuration.json?authorization=Bearer%20{{MY_ACCESS_TOKEN}}
