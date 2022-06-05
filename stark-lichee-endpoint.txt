@@ -1,1 +1,1 @@
-http://smarthome.dhilos.xyz/tablet/
+http://smarthome.lan/tablet/
